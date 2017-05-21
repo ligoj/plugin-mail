@@ -1,1 +1,18 @@
-# plugin-mail
+# :link: Ligoj Mail plugin [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.ligoj.plugin/plugin-mail/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.ligoj.plugin/plugin-mail) [![Download](https://api.bintray.com/packages/ligoj/maven-repo/plugin-mail/images/download.svg) ](https://bintray.com/ligoj/maven-repo/plugin-mail/_latestVersion)
+
+[![Build Status](https://travis-ci.org/ligoj/plugin-mail.svg?branch=master)](https://travis-ci.org/ligoj/plugin-mail)
+[![Build Status](https://circleci.com/gh/ligoj/plugin-mail.svg?style=svg)](https://circleci.com/gh/ligoj/plugin-mail)
+[![Build Status](https://codeship.com/projects/9eb96ee0-0032-0135-2257-76737245ebb2/status?branch=master)](https://codeship.com/projects/212488)
+[![Build Status](https://semaphoreci.com/api/v1/ligoj/plugin-mail/branches/master/shields_badge.svg)](https://semaphoreci.com/ligoj/plugin-mail)
+[![Build Status](https://ci.appveyor.com/api/projects/status/8925yfij6420xa6m/branch/master?svg=true)](https://ci.appveyor.com/project/ligoj/plugin-mail/branch/master)
+[![Coverage Status](https://coveralls.io/repos/github/ligoj/plugin-mail/badge.svg?branch=master)](https://coveralls.io/github/ligoj/plugin-mail?branch=master)
+[![Dependency Status](https://www.versioneye.com/user/projects/58caeda8dcaf9e0041b5b978/badge.svg?style=flat)](https://www.versioneye.com/user/projects/58caeda8dcaf9e0041b5b978)
+[![Quality Gate](https://sonarqube.com/api/badges/gate?key=org.ligoj.plugin:plugin-mail)](https://sonarqube.com/dashboard/index/org.ligoj.plugin:plugin-mail)
+[![Sourcegraph Badge](https://sourcegraph.com/github.com/ligoj/plugin-mail/-/badge.svg)](https://sourcegraph.com/github.com/ligoj/plugin-mail?badge)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/74bea6b3429d43b6a3deaf6d50811096)](https://www.codacy.com/app/ligoj/plugin-mail?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ligoj/plugin-mail&amp;utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/ligoj/plugin-mail/badge)](https://www.codefactor.io/repository/github/ligoj/plugin-mail)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://gus.mit-license.org/)
+
+[Ligoj](https://github.com/ligoj/ligoj) Mail plugin
+Provides the following features :
+- Send a mail
