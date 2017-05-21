@@ -17,6 +17,13 @@
 	<properties>
 		<mail.version>1.5.6</mail.version>
 	</properties>
+
+	<scm>
+		<connection>scm:git:https://github.com/ligoj/plugin-mail</connection>
+		<developerConnection>scm:git:https://github.com/ligoj/plugin-mail</developerConnection>
+		<url>https://github.com/ligoj/plugin-mail.git</url>
+	</scm>
+
 	<dependencyManagement>
 		<dependencies>
 			<!-- JSR-925 -->
