@@ -1,0 +1,1 @@
+define({'service:mail': 'EMail'});
