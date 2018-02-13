@@ -20,6 +20,15 @@
 		<url>https://github.com/ligoj/plugin-mail.git</url>
 	</scm>
 
+	<dependencies>
+		<!-- JSR-919 -->
+		<dependency>
+			<groupId>com.sun.mail</groupId>
+			<artifactId>javax.mail</artifactId>
+			<scope>provided</scope>
+		</dependency>
+	</dependencies>
+
 	<profiles>
 		<profile>
 			<id>bintray</id>
