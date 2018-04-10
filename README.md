@@ -9,7 +9,7 @@
 [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=org.ligoj.plugin:plugin-mail)](https://sonarcloud.io/dashboard/index/org.ligoj.plugin:plugin-mail)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/74bea6b3429d43b6a3deaf6d50811096)](https://www.codacy.com/app/ligoj/plugin-mail?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ligoj/plugin-mail&amp;utm_campaign=Badge_Grade)
 [![CodeFactor](https://www.codefactor.io/repository/github/ligoj/plugin-mail/badge)](https://www.codefactor.io/repository/github/ligoj/plugin-mail)
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://gus.mit-license.org/)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://fabdouglas.mit-license.org/)
 
 [Ligoj](https://github.com/ligoj/ligoj) Mail plugin
 Provides the following features :
