@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/ligoj/plugin-mail.svg?branch=master)](https://travis-ci.org/ligoj/plugin-mail)
 [![Build Status](https://circleci.com/gh/ligoj/plugin-mail.svg?style=svg)](https://circleci.com/gh/ligoj/plugin-mail)
-[![Build Status](https://codeship.com/projects/9eb96ee0-0032-0135-2257-76737245ebb2/status?branch=master)](https://codeship.com/projects/212488)
 [![Build Status](https://semaphoreci.com/api/v1/ligoj/plugin-mail/branches/master/shields_badge.svg)](https://semaphoreci.com/ligoj/plugin-mail)
 [![Build Status](https://ci.appveyor.com/api/projects/status/8925yfij6420xa6m/branch/master?svg=true)](https://ci.appveyor.com/project/ligoj/plugin-mail/branch/master)
 [![Coverage Status](https://coveralls.io/repos/github/ligoj/plugin-mail/badge.svg?branch=master)](https://coveralls.io/github/ligoj/plugin-mail?branch=master)
