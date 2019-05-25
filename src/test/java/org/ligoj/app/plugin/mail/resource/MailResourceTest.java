@@ -23,7 +23,7 @@ public class MailResourceTest {
 	private MailResource resource;
 
 	@Test
-	public void getKey() {
+	void getKey() {
 		Assertions.assertEquals("service:mail", resource.getKey());
 	}
 
