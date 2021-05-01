@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>org.ligoj.api</groupId>
 		<artifactId>plugin-parent</artifactId>
-		<version>3.2.8</version>
+		<version>3.2.9</version>
 		<relativePath />
 	</parent>
 
@@ -13,6 +13,7 @@
 	<version>1.0.4-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Ligoj - Plugin Mail</name>
+	<url>https://github.com/ligoj/plugin-mail</url>
 
 	<scm>
 		<connection>scm:git:https://github.com/ligoj/plugin-mail</connection>
