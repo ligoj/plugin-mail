@@ -1,6 +1,6 @@
 package org.ligoj.app.plugin.mail.resource;
 
-import javax.transaction.Transactional;
+import jakarta.transaction.Transactional;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
