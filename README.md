@@ -1,4 +1,4 @@
-# :link: Ligoj Mail plugin [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.ligoj.plugin/plugin-mail/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.ligoj.plugin/plugin-mail)
+# :link: Ligoj Mail plugin ![Maven Central](https://img.shields.io/maven-central/v/org.ligoj.plugin/plugin-mail)
 
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=org.ligoj.plugin%3Aplugin-mail&metric=coverage)](https://sonarcloud.io/dashboard?id=org.ligoj.plugin%3Aplugin-mail)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?metric=alert_status&project=org.ligoj.plugin:plugin-mail)](https://sonarcloud.io/dashboard/index/org.ligoj.plugin:plugin-mail)
