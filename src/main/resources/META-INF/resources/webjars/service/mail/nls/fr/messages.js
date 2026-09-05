@@ -1,1 +1,0 @@
-define({'service:mail': 'EMail'});
